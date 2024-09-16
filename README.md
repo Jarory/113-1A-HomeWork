@@ -5,4 +5,18 @@
 >#### 高科教學平台：<https://elearning.nkust.edu.tw/mooc/index.php>
 >#### 高科選課系統：<https://aais3.nkust.edu.tw/selcrs_std>
 
+>**新北市**
+>>板橋區
+
+>>中和區
+
+>**桃園縣**
+>>大溪鎮
+
+>>龜山鄉
+
+1. bird
+2. cat
+3. dog
+
 ![NKUST](高科.png "國立高雄科技大學")
