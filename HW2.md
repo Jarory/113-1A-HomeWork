@@ -1,3 +1,7 @@
+![PERT](PERTCPM 圖.png "PERT")
+![甘特圖](甘特圖.png "甘特圖")
+![關鍵路徑](關鍵路徑.png "關鍵路徑")
+
 ```mermaid
 gantt
     title A Gantt Diagram Example
@@ -59,6 +63,3 @@ graph TD
     no9 --> no11["使用者測試 | 編號:11 | 開始:第131天 | 結束:第155天 | 需時:25天"]
 
 ```
-![PERT](PERTCPM 圖.png "PERT")
-![甘特圖](甘特圖.png "甘特圖")
-![關鍵路徑](關鍵路徑.png "關鍵路徑")
