@@ -1,4 +1,4 @@
-![PERT](PERTCPM 圖.png "PERT")
+![甘特圖](PERTCPM 圖.png "甘特圖")
 ![甘特圖](甘特圖.png "甘特圖")
 ![關鍵路徑](關鍵路徑.png "關鍵路徑")
 
