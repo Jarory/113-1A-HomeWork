@@ -1,6 +1,6 @@
-![甘特圖](PERTCPM 圖.png "甘特圖")
-![甘特圖](甘特圖.png "甘特圖")
-![關鍵路徑](關鍵路徑.png "關鍵路徑")
+![pert](./images/pert.png)
+![甘特圖](./images/甘特圖.png)
+![關鍵路徑](./images/關鍵路徑.png)
 
 ```mermaid
 gantt
