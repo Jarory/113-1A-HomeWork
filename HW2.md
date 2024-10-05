@@ -36,8 +36,8 @@ graph TD
     I --> J[使用者訓練]
     J --> K[使用者測試]
 
-    style D fill:#f8f,stroke:#333,stroke-width:2px
-    style E fill:#f8f,stroke:#333,stroke-width:2px
+    style D fill:#f4e,stroke:#333,stroke-width:2px
+    style E fill:#f4e,stroke:#333,stroke-width:2px
 
     C -->|同時進行| E
     G -->|同時進行| H
